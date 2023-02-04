@@ -5,7 +5,7 @@ spring:
     name=test-service
 get:
  my:
-  name=이승주루니
+  name=이승주
   
   
 test:
