@@ -3,6 +3,6 @@ server:
 spring:
   application:
     name=test-service
- get:
-  my:
-    name=이승주
+get:
+ my:
+  name=이승주
