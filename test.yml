@@ -6,3 +6,8 @@ spring:
 get:
  my:
   name=이승주
+  
+  
+test:
+  my:
+    profile=이승주22
