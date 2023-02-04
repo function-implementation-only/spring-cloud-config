@@ -1,0 +1,13 @@
+server:
+  port=88887
+spring:
+  application:
+    name=test-service
+get:
+ my:
+  name=이승주
+  
+  
+test:
+  my:
+    profile=이승주22
