@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name=config-service
+ get:
+  my:
+    name=이승주
